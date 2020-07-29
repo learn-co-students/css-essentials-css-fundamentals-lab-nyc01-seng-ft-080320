@@ -13,28 +13,26 @@ figure {
   margin-right: auto;
   width: 50%;
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
 }
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   text-align: center;
-  color: #57fec4;
+  color: #10fec4;
   }
   
-  p#featured-property {
+  p {
     display: block;
     width: 800px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    color: blue;
   }
+  
   #details {
-    display: block;
+    display:block;
     float: left;
-  }
-  div#details {
     background-color: #ff0000;
     text-align: center;
     width: 25%;
