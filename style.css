@@ -22,7 +22,7 @@ nav a {
   color: #10fec4;
   }
   
-  p {
+ #featured-property p {
     display: block;
     width: 800px;
     text-align: center;
@@ -30,11 +30,12 @@ nav a {
     margin-right: auto;
   }
   
-  #details {
+  #details > div {
     display:block;
     float: left;
     background-color: #ff0000;
     text-align: center;
     width: 25%;
   }
+  
  
