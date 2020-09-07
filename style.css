@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+}
+#featured-property p {
+  padding-left: 28%;
+  padding-right: 28%;
+}
+
+#details {
+ display: flex;
+ text-align: center;
+ justify-content: space-between;
+ padding-left: 10%;
+ padding-right: 10%;
+ background-color: red;
+}
